@@ -5,6 +5,9 @@
   table#image-table td {
     border: none;
   }
+  td, th {
+    border: 1px solid red
+}
 </style>
 
 <table id="example-table"><tr>
