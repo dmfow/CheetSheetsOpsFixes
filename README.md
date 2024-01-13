@@ -1,8 +1,14 @@
 # Exmple images and link to OpsFixs
 
 
-<table border="0"><tr border="0">
-  <td width = 350  border="0">
+<style>
+  table#image-table td {
+    border: none;
+  }
+</style>
+
+<table id="example-table"><tr>
+  <td width = 350>
 <img src="https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Images/RamCacheAndBuffers.png" width=300>
 
 [Ram cache and buffers](https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Linux%20Ram%20cache%20%2B%20Buffer)
