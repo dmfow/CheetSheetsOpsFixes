@@ -1,16 +1,14 @@
 # Exmple images and link to OpsFixs
 
 
-<table>
-  <tr>
-
-    <td>
+<table><tr>
+  <td>
 <img src="https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Images/RamCacheAndBuffers.png" width=300>
 
 [Ram cache and buffers](https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Linux%20Ram%20cache%20%2B%20Buffer)
-</td><td></td>
-  </tr>
-</table>
+</td>
+<td>whatever</td>
+</tr></table>
 
 ---
 
