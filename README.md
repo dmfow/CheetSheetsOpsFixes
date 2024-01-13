@@ -1,7 +1,7 @@
 # Exmple images and link to OpsFixs
 
 
-<table border=0><tr = 100%>
+<table width=100% border=0><tr width=100%>
   <td width = 50%>
 <img src="https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Images/RamCacheAndBuffers.png" width=100%>
 
