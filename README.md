@@ -1,16 +1,7 @@
 # Exmple images and link to OpsFixs
 
 
-<style>
-  table#image-table td {
-    border: none;
-  }
-  td, th {
-    border: 1px solid red
-}
-</style>
-
-<table id="example-table"><tr>
+<table border=0><tr>
   <td width = 350>
 <img src="https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Images/RamCacheAndBuffers.png" width=300>
 
