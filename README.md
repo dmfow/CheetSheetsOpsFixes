@@ -1,6 +1,6 @@
 # Exmple images and link to OpsFixs
 
-<div style="width: 60%; height: 60%">
+<div style="width: 100">
   
 ![alt](https://github.com/dmfow/CheetSheetsOpsFixes/blob/main/Images/RamCacheAndBuffers.png)
 </div>
